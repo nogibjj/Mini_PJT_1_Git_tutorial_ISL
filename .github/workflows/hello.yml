@@ -17,5 +17,5 @@ jobs:
         run: make lint
       - name: test 
         run: make test
-      - name: formatcd
+      - name: format
         run: make format
