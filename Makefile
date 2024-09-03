@@ -11,4 +11,4 @@ test:
 	python -m pytest -cov=main test_main.py
 
 all: 
-	install format lint test
+	install format test lint
