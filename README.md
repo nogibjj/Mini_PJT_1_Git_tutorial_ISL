@@ -1,17 +1,20 @@
 [![CI](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_template/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_template/actions/workflows/hello.yml)
 
 ###Preperation###
-1. Opening code spaces
 
-2. Loading repository to code spaces
+1. Cloning my git hub repo to VScode
+2. Creating files; 
+    'Makefile' to build automation tool to install requirment components
+    'requirements.txt' to define the list of required packages and libraries
+    'hello.yml' to define Continuous Integration
+    '.py files' to test python code 
 
-3. Installing of all requirements by requirements.txt
+3. Install all requirements;
+    Operating requirements.txt, define format, operate line code, test python files
 
+4. Upload changes to repo;
+    git add . or gid add [filename] to transfer to stage
+    git commit -m "Name" to screenshop chage and tranasfer to Locan repository
+    git push to transfer all changes to github repository
 
-###Checking errors###
-1. Format
-
-2. Lint code
-
-3. Test
 
