@@ -13,8 +13,7 @@
     Operating requirements.txt, define format, operate line code, test python files
 
 4. Upload changes to repo;
-    git add . or gid add [filename] to transfer to stage
-    git commit -m "Name" to screenshop chage and tranasfer to Locan repository
-    git push to transfer all changes to github repository
+    'git add .' or 'gid add [filename]' to transfer updated files to stage
+    'git commit -m "Name"' to save change logs and tranasfer the files to Local repository. Lastly, 'git push' to transfer all changes to github repository
 
 
